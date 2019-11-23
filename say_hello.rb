@@ -2,7 +2,7 @@
 
 name = "Ben"
 
-def say_hello name = "Friend"
+def say_hello (name = "Friend")
   puts "Hello #{name}!"
 end
 
