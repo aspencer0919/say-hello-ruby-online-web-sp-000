@@ -6,4 +6,4 @@ def say_hello (name = "Friend")
   puts "Hello #{name}!"
 end
 
-say_hello
+say_hello ("Ben")
